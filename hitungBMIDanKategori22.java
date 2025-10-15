@@ -1,6 +1,6 @@
 import java.util.Scanner; //IMPORT SCANNER UNTUK MEMBACA INPUT DARI USER
 
-public class hitungBMIDanKategori {
+public class hitungBMIDanKategori22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); //SCANNER UNTUK MEMBACA INPUT DARI USER
 
@@ -39,6 +39,6 @@ public class hitungBMIDanKategori {
         System.out.println("Kategori BMI        : " + kategori); //PRINT KATEGORI BMI
         System.out.println("Risiko Kesehatan    : " + risiko); //PRINT RISIKO KESEHATAN BERDASARKAN KATEGORI BMI
         System.out.println("\n====================================");
-        
+        //https://github.com/rakaiwikrama/UTSPRAKTIKDASPRO2K25SEM1/blob/main/hitungBMIDanKategori.java
     }
 }

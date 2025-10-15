@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class menentukanAngkaTerbesar {
+public class menentukanAngkaTerbesar22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double a = 0, b = 0, c = 0; //DEKLARASI VARIABEL DENGAN TIPE DATA DOUBLE DENGAN DEFAULT 0

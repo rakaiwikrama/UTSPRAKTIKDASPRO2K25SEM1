@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bonusKaryawan {
+public class bonusKaryawan22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); //SCANNER UNTUK MEMBACA INPUT DARI USER
         // INPUT DATA KARYAWAN
@@ -56,6 +56,6 @@ public class bonusKaryawan {
         System.out.printf("TOTAL: Rp %, .0f%n", bonus + gajiPokok); //FORMAT DENGAN PEMISAH RIBUAN DAN TANPA ANGKA DI BELAKANG KOMA
         System.out.printf("\n=====================================");
 
-        
+        //https://github.com/rakaiwikrama/UTSPRAKTIKDASPRO2K25SEM1/blob/main/bonusKaryawan.java
     }
 }
